@@ -1,0 +1,8 @@
+asgiref==3.11.1
+cffi==2.0.0
+cryptography==48.0.1
+Django==6.0.6
+oracledb==4.0.1
+pycparser==3.0
+sqlparse==0.5.5
+typing_extensions==4.15.0
